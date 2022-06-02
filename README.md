@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  ### Hi there 👋
+Hi there! 👋 
 </div>
 <div id="bio" align="center" >
   <h1>I'm Isaac.</h1>
