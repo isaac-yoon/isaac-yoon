@@ -79,31 +79,26 @@ Hi there! 👋
 <div align="left" ><h1>Projects:</h1></div>
 <div  id="projects" align="center" >
   <div>
-<!--     <a href="" ><img height="" src=""/></a> -->
-    <p>Chatting Application - built with React, Redux, Ruby on Rails, and ActionCable</p>
     <div>
+      <p>Chatting Application - built with React, Redux, Ruby on Rails, and ActionCable</p>
       <a href="https://disarray.herokuapp.com/" >
         <img src="" title="" alt="DisArray" width="" />
       </a>
     </div>
   </div>
   <div>
-<!--     <a href="" ><img height="" src=""></a> -->
-    <p>Harmony-Music built with MERN, Tone.js, and websocket.io</p>
     <div>
+      <p>Harmony-Music built with MERN, Tone.js, and websocket.io</p>
       <a href="https://harmonic-music.herokuapp.com/#/" >
         <img src="" title="" alt="Harmonic-Music" width=""/>
       </a>
     </div>
   </div>
   <div>
-<!--     <a href="" ><img height="" src=""><img height="" src=""/></a> -->
     <p>Guess the Word Game using Canvas</p>
-    <div>
-      <a href="https://logosword.herokuapp.com" >
-        <img src="" title="" alt="Logos-Word" width="" />
-      </a>
-    </div>
+    <a href="https://logosword.herokuapp.com" >
+      <img src="" title="" alt="Logos-Word" width="" />
+    </a>
   </div>
 </div>
 
