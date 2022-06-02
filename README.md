@@ -83,7 +83,7 @@ Here are some ideas to get you started:
     <p>Chatting Application - built with React, Redux, Ruby on Rails, and ActionCable</p>
     <div>
       <a href="https://disarray.herokuapp.com" >
-        <img src="" title="" alt="" width="" />
+        <img src="" title="" alt="DisArray" width="" />
       </a>
     </div>
   </div>
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
     <p>Harmony-Music built with MERN, Tone.js, and websocket.io</p>
     <div>
       <a href="https://www.harmonic-music.herokuapp.com" >
-        <img src="" title="" alt="" width=""/>
+        <img src="" title="" alt="Harmonic-Music" width=""/>
       </a>
     </div>
   </div>
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
     <p>Guess the Word Game using Canvas</p>
     <div>
       <a href="" >
-        <img src="" title="" alt="" width="" />
+        <img src="" title="" alt="Logos-Word" width="" />
       </a>
     </div>
   </div>
@@ -110,9 +110,8 @@ Here are some ideas to get you started:
 <br/>
 <div align="left" ><h1>My Github Profile Stats:</h1></div>
 <div id="stats" align="center" >
-  <img width="700"src="https://media.giphy.com/media/bDMI5DFOkFTq4FY8ii/giphy.gif"  alt="my commit history 2022"/>
   <p></p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=isaac-yoon&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
-  <p>  </p>
+  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-yoon&layout=compact&theme=noctis_minimus"/>
 </div>
