@@ -79,7 +79,7 @@ Hi there! 👋
 <div align="left" ><h1>Projects:</h1></div>
 <div  id="projects" align="center" >
   <div>
-    <a href="" ><img height="" src=""/></a>
+<!--     <a href="" ><img height="" src=""/></a> -->
     <p>Chatting Application - built with React, Redux, Ruby on Rails, and ActionCable</p>
     <div>
       <a href="https://disarray.herokuapp.com/" >
@@ -88,7 +88,7 @@ Hi there! 👋
     </div>
   </div>
   <div>
-    <a href="" ><img height="" src=""></a>
+<!--     <a href="" ><img height="" src=""></a> -->
     <p>Harmony-Music built with MERN, Tone.js, and websocket.io</p>
     <div>
       <a href="https://harmonic-music.herokuapp.com/#/" >
@@ -97,7 +97,7 @@ Hi there! 👋
     </div>
   </div>
   <div>
-    <a href="" ><img height="" src=""><img height="" src=""/></a>
+<!--     <a href="" ><img height="" src=""><img height="" src=""/></a> -->
     <p>Guess the Word Game using Canvas</p>
     <div>
       <a href="https://logosword.herokuapp.com" >
