@@ -91,7 +91,7 @@ Hi there! 👋
     <a href="" ><img height="" src=""></a>
     <p>Harmony-Music built with MERN, Tone.js, and websocket.io</p>
     <div>
-      <a href="https://www.harmonic-music.herokuapp.com/#/" >
+      <a href="https://harmonic-music.herokuapp.com/#/" >
         <img src="" title="" alt="Harmonic-Music" width=""/>
       </a>
     </div>
@@ -100,7 +100,7 @@ Hi there! 👋
     <a href="" ><img height="" src=""><img height="" src=""/></a>
     <p>Guess the Word Game using Canvas</p>
     <div>
-      <a href="https://www.logosword.herokuapp.com" >
+      <a href="https://logosword.herokuapp.com" >
         <img src="" title="" alt="Logos-Word" width="" />
       </a>
     </div>
