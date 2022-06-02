@@ -82,7 +82,7 @@ Hi there! 👋
     <a href="" ><img height="" src=""/></a>
     <p>Chatting Application - built with React, Redux, Ruby on Rails, and ActionCable</p>
     <div>
-      <a href="https://disarray.herokuapp.com" >
+      <a href="https://disarray.herokuapp.com/" >
         <img src="" title="" alt="DisArray" width="" />
       </a>
     </div>
@@ -91,16 +91,16 @@ Hi there! 👋
     <a href="" ><img height="" src=""></a>
     <p>Harmony-Music built with MERN, Tone.js, and websocket.io</p>
     <div>
-      <a href="https://www.harmonic-music.herokuapp.com" >
+      <a href="https://www.harmonic-music.herokuapp.com/" >
         <img src="" title="" alt="Harmonic-Music" width=""/>
       </a>
     </div>
   </div>
   <div>
-    <a href="https://www.logosword.herokuapp.com" ><img height="65" src=""><img height="40" src=""/></a>
+    <a href="" ><img height="" src=""><img height="" src=""/></a>
     <p>Guess the Word Game using Canvas</p>
     <div>
-      <a href="" >
+      <a href="https://www.logosword.herokuapp.com/" >
         <img src="" title="" alt="Logos-Word" width="" />
       </a>
     </div>
