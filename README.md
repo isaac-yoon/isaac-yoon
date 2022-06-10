@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-<h1> Hi there! </h1>
+<h2> Hi there! </h2>
 </div>
 <div id="bio" align="center" >
   <h1>I'm Isaac :)</h1>
