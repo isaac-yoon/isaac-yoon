@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-Hi there! 👋 
+<h1> Hi there! </h1>
 </div>
 <div id="bio" align="center" >
-  <h1>I'm Isaac.</h1>
+  <h1>I'm Isaac :)</h1>
   <div>
-    <p>I'm a full stack developer, located in Los Angeles.</p>
+    <p> I'm a full stack developer, located in Los Angeles.</p>
     <p>👋 Open to job opportunities</p>
     <p>💡 Looking to collaborate on projects</p>
-    <p>🌱 Learning Data Structures and Algorithms</p>
+    <p>🌱 Currently learning Data Structures and Algorithms and Java</p>
   </div>
 <br/>
 </div>
@@ -100,13 +100,4 @@ Hi there! 👋
       <img src="" title="" alt="Logos-Word" width="" />
     </a>
   </div>
-</div>
-
-<br/>
-<div align="left" ><h1>My Github Profile Stats:</h1></div>
-<div id="stats" align="center" >
-  <p></p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=isaac-yoon&theme=noctis-minimus&date_format=M%20j%5B%2C%20Y%5D"/>
-  <p></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-yoon&layout=compact&theme=noctis_minimus"/>
 </div>
