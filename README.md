@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 </div> -->
 <div id="bio" align="center" >
-  <h2> Hi there! </h2>
-  <h1> I'm Isaac :)</h1>
+  <h1> 
+    <p> Hi there! </p>
+    <p> I'm Isaac 🤔 </p>    
+  </h1>
   <div>
     <p> I'm a full stack developer, located in Los Angeles.</p>
     <p>👋 Open to job opportunities</p>
