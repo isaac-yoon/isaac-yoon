@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<div id="header" align="center">
-<h2> Hi there! </h2>
-</div>
+<!-- <div id="header" align="center">
+
+</div> -->
 <div id="bio" align="center" >
-  <h1>I'm Isaac :)</h1>
+  <h2> Hi there! </h2>
+  <h1> I'm Isaac :)</h1>
   <div>
     <p> I'm a full stack developer, located in Los Angeles.</p>
     <p>👋 Open to job opportunities</p>
