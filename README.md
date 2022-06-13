@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 
 </div> -->
 <div id="bio" align="center" >
+  </br>
+  </br>
+  </br>
+  </br>
+  <div>
+    https://isaacyoon.github.io
+  </div>
+  </br>
+  </br>
+  </br>
+  </br>
   <h1> 
     <p> Hi there! </p>
     <p> I'm Isaac 🤔 </p>    
@@ -53,14 +64,6 @@ Here are some ideas to get you started:
     <img height="26px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
   </a>
   <img height="26px" src="https://komarev.com/ghpvc/?username=isaac-yoon&style=flat-square&color=brightgreen" alt="Page views count"/>
-</div>
-</br>
-</br>
-</br>
-</br>
-
-<div align="center">
-  https://isaacyoon.github.io
 </div>
 
 <br/>
