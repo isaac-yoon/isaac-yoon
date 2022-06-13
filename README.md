@@ -20,24 +20,19 @@ Here are some ideas to get you started:
 <div id="bio" align="center" >
   </br>
   </br>
-  </br>
-  </br>
   <div>
     https://isaacyoon.github.io
   </div>
   </br>
   </br>
-  </br>
-  </br>
   <h1> 
-    <p> Hi there! </p>
-    <p> I'm Isaac 🤔 </p>    
+    <p> Hi there! I'm Isaac 🤔 </p>    
   </h1>
   <div>
     <p> I'm a full stack developer, located in Los Angeles.</p>
     <p>👋 Open to job opportunities</p>
     <p>💡 Looking to collaborate on projects</p>
-    <p>🌱 Currently learning Data Structures and Algorithms and Java</p>
+    <p>🌱 Currently practicing Data Structures and Algorithms and learning Java</p>
   </div>
 <br/>
 </div>
