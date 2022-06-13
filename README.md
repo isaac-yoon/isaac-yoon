@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </br>
   </br>
   <h1> 
-    <p> Hi there! I'm Isaac 🤔 </p>    
+    <p> Hi there! I'm Isaac </p>    
   </h1>
   <div>
     <p> I'm a full stack developer, located in Los Angeles.</p>
