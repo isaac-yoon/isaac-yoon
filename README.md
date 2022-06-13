@@ -54,9 +54,13 @@ Here are some ideas to get you started:
   </a>
   <img height="26px" src="https://komarev.com/ghpvc/?username=isaac-yoon&style=flat-square&color=brightgreen" alt="Page views count"/>
 </div>
+</br>
+</br>
+</br>
+</br>
 
 <div align="center">
-  Take a look at my personal website: https://isaacyoon.github.io
+  https://isaacyoon.github.io
 </div>
 
 <br/>
