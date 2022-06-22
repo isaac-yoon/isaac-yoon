@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </br>
   </br>
   <div>
-    https://isaacyoon.github.io
+    https://isaac-yoon.github.io
   </div>
   </br>
   </br>
