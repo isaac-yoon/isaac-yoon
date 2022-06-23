@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <p> I'm a full stack developer, located in Los Angeles.</p>
     <p>👋 Open to job opportunities</p>
     <p>💡 Looking to collaborate on projects</p>
-    <p>🌱 Currently practicing DSA in Python, learning Java, and reviewing JavaScript</p>
+    <p>🌱 Currently practicing DSA in Python and learning Java!</p>
   </div>
 <br/>
 </div>
