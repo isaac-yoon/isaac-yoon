@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <div id="bio" align="center" >
   </br>
   </br>
-  <div>
-    https://isaac-yoon.github.io
-  </div>
   </br>
   </br>
   <h1> 
     <p> Hi there! I'm Isaac </p>    
   </h1>
+  <div>
+    https://isaac-yoon.github.io
+  </div>
   <div>
     <p> Located in Chicago</p>
 <!--     <p>👋 Open to job opportunities</p> -->
