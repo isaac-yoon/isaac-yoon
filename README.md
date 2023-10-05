@@ -29,11 +29,11 @@ Here are some ideas to get you started:
     <p> Hi there! I'm Isaac </p>    
   </h1>
   <div>
-    <p> Located in Los Angeles</p>
-    <p>👋 Open to job opportunities</p>
+    <p> Located in Chicago</p>
+<!--     <p>👋 Open to job opportunities</p> -->
     <p>💡 Looking to collaborate on projects</p>
-    <p>🌱 Currently practicing DSA in Python and learning Java!</p>
-  </div>
+<!--     <p>🌱 Currently practicing DSA in Python and learning Java!</p>
+  </div> -->
 <br/>
 </div>
 <div align="center">
