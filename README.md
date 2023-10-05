@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <div>
     https://isaac-yoon.github.io
   </div>
+    </br>
   <div>
     <p> Located in Chicago</p>
 <!--     <p>👋 Open to job opportunities</p> -->
