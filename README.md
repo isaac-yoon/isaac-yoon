@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   </div>
     </br>
   <div>
-    <p> Located in Chicago</p>
-<!--     <p>👋 Open to job opportunities</p> -->
+    <p>👋 Open to job opportunities</p>
     <p>💡 Looking to collaborate on projects</p>
 <!--     <p>🌱 Currently practicing DSA in Python and learning Java!</p>
   </div> -->
