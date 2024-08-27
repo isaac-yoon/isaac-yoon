@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </br>
   </br>
   <h1> 
-    <p> Hi there! I'm Isaac </p>    
+    <p> Hi there! I'm Isaac Yoon.</p>    
   </h1>
   <div>
     https://isaac-yoon.github.io
